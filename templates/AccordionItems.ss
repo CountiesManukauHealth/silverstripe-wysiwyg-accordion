@@ -10,7 +10,7 @@
                     </a>
                 </h4>
             </div>
-            <div id="collapse-{$Up.AccordionId}-{$Pos}" class="panel-collapse collapse in"
+            <div id="collapse-{$Up.AccordionId}-{$Pos}" class="panel-collapse collapse"
                  role="tabpanel" aria-labelledby="heading-{$Up.AccordionId}-{$Pos}">
                 <div class="panel-body">
                     $Content
