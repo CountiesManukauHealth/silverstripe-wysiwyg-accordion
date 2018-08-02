@@ -1,5 +1,5 @@
 {
-  "name": "ninja-unicorns/wysiwyg-accordion",
+  "name": "CountiesManukauHealth/silverstripe-wysiwyg-accordion",
   "description": "Easily place an accordion in the wysiwyg via a related set of AccordionItems",
   "type": "silverstripe-module",
   "license": "BSD-3-Clause",
@@ -13,8 +13,8 @@
   ],
   "authors": [
     {
-      "name": "Ninja Unicorns",
-      "email": "ninja-unicorns@silverstripe.com"
+      "name": "Josh Mens",
+      "email": "josh.mens@middlemore.co.nz"
     }
   ],
   "require": {
