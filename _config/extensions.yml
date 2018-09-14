@@ -1,6 +1,6 @@
 Page:
   extensions:
     - AccordionPageExtension
-AccordionItem:
-  extensions:
-    - Versioned
+# AccordionItem:
+#   extensions:
+#     - Versioned
